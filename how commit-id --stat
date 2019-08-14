@@ -1,0 +1,30 @@
+[33mcommit 20500de91d14ef8835feb0d2fe3f3ee650379b1b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Sujay Talukdar <sujay.talukdar@abzooba.com>
+Date:   Wed Aug 14 14:59:42 2019 +0530
+
+    master branch commit
+
+ help.txt | 3 [32m+++[m
+ 1 file changed, 3 insertions(+)
+
+[33mcommit 0ac69c5e84643a633ef36f3d842ea7f6cc87edd9[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/feature1[m[33m, [m[1;32mfeature1[m[33m)[m
+Author: Sujay Talukdar <sujaytalukder03@gmail.com>
+Date:   Wed Aug 14 14:50:31 2019 +0530
+
+    Create README.md
+    
+    This is a readme file.
+
+ README.md | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 98a6b1529250c521ffad804ba739aba04b0734f1[m
+Author: Sujay Talukdar <sujaytalukder03@gmail.com>
+Date:   Wed Aug 14 14:49:51 2019 +0530
+
+    Create practice
+    
+    Practice file created.
+
+ practice | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
